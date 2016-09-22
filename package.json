@@ -1,0 +1,19 @@
+{
+  "name": "lending",
+  "version": "0.0.1",
+  "description": "API wrapper for LendingClub.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Hello!\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gartenfeld/lending.git"
+  },
+  "author": "David Rosson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gartenfeld/lending/issues"
+  },
+  "homepage": "https://github.com/gartenfeld/lending#readme"
+}
